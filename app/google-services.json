@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631461504629",
+    "firebase_url": "https://tabscrollable.firebaseio.com",
+    "project_id": "tabscrollable",
+    "storage_bucket": "tabscrollable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631461504629:android:2ae9219bcf918146",
+        "android_client_info": {
+          "package_name": "com.gourav.tabscrollable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631461504629-216j2k0u3h3vs4as196vnfm1epnr76jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gourav.tabscrollable",
+            "certificate_hash": "17f0195246b2d2ea7e459dba6c1fba6fcb0017c4"
+          }
+        },
+        {
+          "client_id": "631461504629-iqb850tifcqekm2l7qpofrvvtbc94flp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpwGAJqpG9Ebn5MLHLXPaMzE3Ww1cfyl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631461504629-iqb850tifcqekm2l7qpofrvvtbc94flp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
